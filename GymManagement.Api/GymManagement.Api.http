@@ -1,0 +1,16 @@
+@GymManagement.Api_HostAddress = http://localhost:5177
+@token =
+
+POST {{GymManagement.Api_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "admin@gym.local",
+  "password": "Admin@123"
+}
+
+###
+
+GET {{GymManagement.Api_HostAddress}}/api/members
+Authorization: Bearer {{token}}
+Accept: application/json
