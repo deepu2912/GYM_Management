@@ -1791,3 +1791,4 @@ d:\GYM_Management\_tmp_api_build_subscription_catalog\GymManagement.Api.deps.jso
 d:\GYM_Management\_tmp_api_build_subscription_catalog\GymManagement.Api.runtimeconfig.json
 d:\GYM_Management\_tmp_api_build_subscription_catalog\GymManagement.Api.dll
 d:\GYM_Management\_tmp_api_build_subscription_catalog\GymManagement.Api.pdb
+D:\GYM_Management\GymManagement.Api\obj\Debug\net10.0\GymManagement.Api.sourcelink.json
